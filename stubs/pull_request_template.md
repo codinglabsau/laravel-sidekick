@@ -21,8 +21,5 @@ Don't focus on:
 * Granular information about files that were changed
 
 ## Wrapping Up
-Have I moved my to-do item to the Review column in Basecamp?
-Have I commented in my To-Do a link to the PR?
-
-**Write your Pull Request under this line and delete the text above.**
-___
+- [ ] Have I moved my to-do item to the Review column in Basecamp?
+- [ ] Have I commented in my To-Do a link to the PR?
